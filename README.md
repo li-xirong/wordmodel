@@ -18,7 +18,7 @@ source ~/github/jingwei/start.sh
 
 ```
 cd ~/VisualSearch
-wget http://www.mmc.ruc.edu.cn/research/negbp/voc2008train-voc2008val.zip
+wget http://lixirong.net/data/tmm2013/voc2008train-voc2008val.zip
 unzip voc2008train-voc2008val.zip
 ```
 
